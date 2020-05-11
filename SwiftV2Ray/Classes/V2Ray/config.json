@@ -30,7 +30,7 @@
             "ip": "127.0.0.1"
         }
     }],
-    "outbounds":[
+    "outbounds": [
         {
             "mux":{
                 "enabled": true,
@@ -40,11 +40,11 @@
             "settings":{
                 "vnext":[
                     {
-                        "address":"ssl.miwukeji.net",
+                        "address":"tr3.free6666.net",
                         "users":[
                             {
-                                "id":"29f1ae2e-e29d-d804-7bcd-e01b5dfcf26a",
-                                "alterId":64,
+                                "id":"4d0e5248-015c-494e-92e5-38cb6be611e7",
+                                "alterId":2,
                                 "level":0,
                                 "security":"auto"
                             }
@@ -54,5 +54,13 @@
                 ]
             }
         }
-    ]
+    ],
+    "transport": {
+        "wsSettings": {
+            "path": "/df40c300/",
+            "headers": {
+                "host": "tr3.free6666.net"
+            }
+        },
+    }
 }
